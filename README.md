@@ -34,18 +34,6 @@ Visit `http://localhost:3000` to view the application in your web browser.
 ## Usage
 To use the application, enter a task in the input field and click the "Add" button. Click on a task to mark it as completed or click the "Delete" button next to each task to remove it from the list.
 
-## Contributing
-Contributions are welcome! Follow these steps to contribute:
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - Inspiration from classic to-do applications.
 - React community for continuous support.
